@@ -146,14 +146,4 @@ The dashboard is fully responsive with the following breakpoints:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-For questions or support, please open an issue in the repository.
-
----
-
-**Note**: This is a UI/UX design assignment showcasing modern web development practices, responsive design, and accessibility considerations.
+<img width="1272" height="801" alt="image" src="https://github.com/user-attachments/assets/14fb71a5-107d-47ec-b8ae-a9b6b34d11fc" />
